@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/drawable/borde_naranja.xml" value="0.2203125" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/drawable/bordes_redondeados.xml" value="0.2203125" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_citas_clientes.xml" value="0.2957427536231884" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_citas_doctor.xml" value="0.2563405797101449" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_detalle_cita.xml" value="0.2563405797101449" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_detalle_servicios.xml" value="0.2957427536231884" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_mascotas.xml" value="0.25" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_menu_doctor.xml" value="0.2563405797101449" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_nueva_cita.xml" value="0.25" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_nueva_mascota.xml" value="0.1" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_perfil_cliente.xml" value="0.2" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_principal_clientes.xml" value="0.25" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_registro.xml" value="0.22" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/activity_main_servicios_clientes.xml" value="0.2957427536231884" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/grid_items.xml" value="0.17798913043478262" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/layout/list_items.xml" value="0.1526268115942029" />
+        <entry key="..\:/Android/Proyectos/HappyPetsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

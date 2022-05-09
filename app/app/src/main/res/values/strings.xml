@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">HappyPetsApp</string>
+    <string name="guardar">Save</string>
+    <string name="iniciar_sesion">Login</string>
+    <string name="registrame">Register</string>
+    <string name="nombre">Name</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Password</string>
+    <string name="menu_principal">Main menu</string>
+    <string name="mis_mascotas">My pets</string>
+    <string name="servicios">Services</string>
+    <string name="citas">Appointments</string>
+    <string name="historial_citas">Appointment history</string>
+    <string name="mi_perfil">My profile</string>
+    <string name="agregar_mascota">Add new pet</string>
+    <string name="agendar_cita">Schedule new appointment</string>
+    <string name="especie">Species</string>
+    <string name="nacimiento">Birthday</string>
+    <string name="confirmar_contraseña">Confirm password</string>
+</resources>

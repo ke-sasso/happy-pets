@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guardar">Guardar</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrame">Registrarme</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="menu_principal">Menú principal</string>
+    <string name="mis_mascotas">Mis Mascotas</string>
+    <string name="servicios">Servicios</string>
+    <string name="citas">Citas</string>
+    <string name="historial_citas">Historial de citas</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="agregar_mascota">Agregar nueva mascota</string>
+    <string name="agendar_cita">Agendar nueva cita</string>
+    <string name="especie">Especie</string>
+    <string name="nacimiento">Nacimiento</string>
+    <string name="confirmar_contraseña">Confirmar contraseña</string>
+</resources>
